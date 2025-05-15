@@ -14,4 +14,4 @@ It's a **responsive Calculator Web Application** built using **HTML, CSS, and Ja
 - JavaScript
 
 ## 🚀 Live Demo
-🌐 [View Live Project]()
+🌐 [View Live Project](https://calculator-code-alpha.netlify.app/)
